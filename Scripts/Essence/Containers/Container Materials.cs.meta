@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5bf49a87e26a04dbc92d9345454ac625
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Select: {fileID: 2100000, guid: d28f997cc67b746e89bbf41157834d4e, type: 2}
+  - Fog: {fileID: 2100000, guid: 65f526a1d74cc49dd869d3c391baa12e, type: 2}
+  - Earth: {fileID: 2100000, guid: c2fb1a9ccfa92435aa292c634a4572e6, type: 2}
+  - Water: {fileID: 2100000, guid: ea66d3ba3c5ac7d498707e8c9e54524f, type: 2}
+  - Stone: {fileID: 2100000, guid: fe5b0bc1579174d859df6b40d18813fd, type: 2}
+  - Forest: {fileID: 2100000, guid: dc1568860eb014473a220c196cb69343, type: 2}
+  - Mountains: {fileID: 2100000, guid: 589fce6a74513409da5f6d79bb454733, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

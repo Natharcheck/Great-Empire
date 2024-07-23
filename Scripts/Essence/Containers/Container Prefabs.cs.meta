@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8af6e0d27b6224d73a2ca1ff78558bb3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Forest: {fileID: 1816166607742787872, guid: 02b79612ce22640e393927852813ffb5,
+      type: 3}
+  - Mountains: {fileID: 8883752369354509485, guid: 262508adf7c27478680efecbc6a11d8a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
